@@ -1,0 +1,136 @@
+#normal {
+    background: #ee99ac;
+}
+
+#normal:hover {
+    background: #9b6470;
+}
+
+#fire {
+    background: #f08030;
+}
+
+#fire:hover {
+    background: #9c531f
+}
+
+#water {
+    background: #6890f0;
+}
+
+#water:hover {
+    background: #445e9c;
+}
+
+#grass {
+    background: #7db808;
+}
+
+#grass:hover {
+    background: #517805;
+}
+
+#fight {
+    background: #c03028;
+    color: white;
+}
+
+#fight:hover {
+    background: #7d1f1a;
+}
+
+#ghost {
+    background: #705898;
+    color: white;
+}
+
+#ghost:hover {
+    background: #493963;
+}
+
+#mind {
+    background: #f85888;
+    color: white;
+}
+
+#mind:hover {
+    background: #a13959;
+}
+
+body {
+    background: rgb(228, 227, 227)
+}
+
+#letrero_fondo {
+    background: rgb(39, 0, 100);
+}
+
+#letrero {
+    background: rgb(9, 1, 122);
+    padding: 10px;
+}
+
+#letrero p {
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#main {
+   background: white; 
+   min-height: 600px;
+}
+
+#consulta {
+    padding-top: 10px; 
+    padding-bottom: 15px;
+}
+
+#btn_expand {
+    margin-left: 150px; 
+    margin-bottom: 10px
+}
+
+.card {
+    border: 0px;
+}
+
+#image {
+    width: 20%;
+}
+
+.btn-outline-info.focus, .btn-outline-info:focus {
+    box-shadow: 0 0 0 0rem rgba(23,162,184,.5);
+}
+
+#descripcion {
+    display: inline-block;
+}
+
+
+#descripcion h3 {
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#descripcion h5 span {
+    font-style: italic;
+}
+
+#estadisticas {
+    padding-bottom: 0px;
+    background: rgb(143, 143, 143);
+}
+
+#estadisticas p {
+    margin-bottom: 5px;
+    font-style: italic;
+}
+
+footer {
+    padding-top: 1em;
+}
+
+footer .container {
+    max-width: 75rem;
+}
